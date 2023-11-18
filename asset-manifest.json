@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic_toe.git/static/css/main.198e538f.css",
+    "main.js": "/tic_toe.git/static/js/main.75ee78e4.js",
+    "static/js/787.7da95b79.chunk.js": "/tic_toe.git/static/js/787.7da95b79.chunk.js",
+    "index.html": "/tic_toe.git/index.html",
+    "main.198e538f.css.map": "/tic_toe.git/static/css/main.198e538f.css.map",
+    "main.75ee78e4.js.map": "/tic_toe.git/static/js/main.75ee78e4.js.map",
+    "787.7da95b79.chunk.js.map": "/tic_toe.git/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198e538f.css",
+    "static/js/main.75ee78e4.js"
+  ]
+}
